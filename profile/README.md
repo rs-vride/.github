@@ -1,5 +1,5 @@
 <div align="center">
 
-# VRIDE
+# Vride
 Technology made modern
 </div>
